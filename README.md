@@ -3,7 +3,8 @@
 ![Code Coverage](#)
 ![License: MIT](#)
 Descripción
-Se genera un proyecto de prueba para el curso que consiste en migrar una aplicación de diseño monolito a un proyecto de microservicios
+Se genera un proyecto de prueba para el curso que consiste en migrar una aplicación de diseño monolito a un proyecto de microservicios.
+El código utilizado en este proyecto no se genera en ATT ni es propiedad de alguna empresa o institución, solo se utiliza para fines de capacitación.
 ---
 Tabla de Contenidos
 Características Principales
